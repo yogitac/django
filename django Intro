@@ -1,0 +1,16 @@
+django principles 
+  DRY - Dont repeat yourself
+  loose coupling
+  More productive
+  
+  Create a new project
+  ======================
+    django-admin startproject firstproject
+   
+   The above will also create manage.py and then we can run development server.
+    
+    python manage.py runserver
+   
+   Now create application
+    
+    python manage.py startapp main
